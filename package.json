@@ -1,0 +1,16 @@
+{
+  "name": "indianapowerlifting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://joecoffee.github.io/meet",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
